@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="jmodel_app_name">智慧水控维护</string>
+    <string name="jmodel_title_activity_job_main">JobMainActivity</string>
+    <string name="jmodel_navigation_drawer_open">Open navigation drawer</string>
+    <string name="jmodel_navigation_drawer_close">Close navigation drawer</string>
+    <string name="jmodel_nav_header_title">Android Studio</string>
+    <string name="jmodel_nav_header_subtitle">android.studio@android.com</string>
+    <string name="jmodel_nav_header_desc">Navigation header</string>
+    <string name="jmodel_action_settings">Settings</string>
+</resources>

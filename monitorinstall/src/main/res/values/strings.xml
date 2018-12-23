@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="mmodel_app_name">安装</string>
+    <string name="mmodel_title_activity_monitor_main">MonitorMainActivity</string>
+    <string name="mmodel_navigation_drawer_open">Open navigation drawer</string>
+    <string name="mmodel_navigation_drawer_close">Close navigation drawer</string>
+    <string name="mmodel_nav_header_title">Android Studio</string>
+    <string name="mmodel_nav_header_subtitle">android.studio@android.com</string>
+    <string name="mmodel_nav_header_desc">Navigation header</string>
+    <string name="mmodel_action_settings">Settings</string>
+</resources>

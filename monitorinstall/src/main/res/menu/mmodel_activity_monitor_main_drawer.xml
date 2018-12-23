@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/nav_camera"
+                android:icon="@drawable/mmodel_ic_menu_camera"
+                android:title="已安装设备"/>
+        <item
+                android:id="@+id/nav_gallery"
+                android:icon="@drawable/mmodel_ic_menu_gallery"
+                android:title="离线模式"/>
+        <item
+                android:id="@+id/nav_slideshow"
+                android:icon="@drawable/mmodel_ic_menu_slideshow"
+                android:title="测站统计"/>
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                    android:id="@+id/nav_manage"
+                    android:icon="@drawable/mmodel_ic_menu_manage"
+                    android:title="录入轨迹"/>
+            <item
+                    android:id="@+id/nav_share"
+                    android:icon="@drawable/mmodel_ic_menu_share"
+                    android:title="附近测站"/>
+            <item
+                    android:id="@+id/nav_send"
+                    android:icon="@drawable/mmodel_ic_menu_send"
+                    android:title="离线地图"/>
+        </menu>
+    </item>
+
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/mmodel_ic_menu_gallery"
+                android:title="关于"/>
+        <item
+                android:id="@+id/nav_exit"
+                android:icon="@drawable/mmodel_ic_menu_slideshow"
+                android:title="退出登录"/>
+
+    </group>
+</menu>

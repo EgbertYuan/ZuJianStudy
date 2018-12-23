@@ -1,0 +1,1 @@
+include ':app', ':monitorinstall', ':monitorjob', ':utilsLibrary', ':corelibrary', ':rxeasyhttp', ':permission', ':matisse'

@@ -1,0 +1,9 @@
+<resources>
+    <style name="jmodel_AppTheme" parent="Theme.AppCompat.Light"/>
+    <style name="jmodel_AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="jmodel_AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="jmodel_AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Core_TitleView">
+        <attr name="core_leftImage" format="integer" />
+        <attr name="core_rightImage" format="integer" />
+        <attr name="core_centertitle" format="string" />
+        <attr name="core_righttxt" format="string" />
+        <attr name="core_titleBackground" format="integer" />
+        <attr name="core_spliteGone" format="boolean" />
+        <attr name="core_body_background" format="color" />
+    </declare-styleable>
+</resources>

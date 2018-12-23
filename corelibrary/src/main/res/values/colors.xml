@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="core_colorPrimary">#FFBB00</color>
+    <color name="core_colorPrimaryDark">#FFBB00</color>
+    <color name="core_colorAccent">#D81B60</color>
+
+    <color name="core_common_white">#FFFFFF</color>
+    <color name="core_title">#322E28</color>
+    <color name="core_transparent">#00000000</color>
+    <color name="core_title_bar_color">#FFBB00</color>
+    <!--字体颜色-->
+    <color name="core_font_heavy">#FF322E28</color>
+    <color name="core_font_medium">#FF565462</color>
+    <color name="core_font_regular">#FF716F7C</color>
+    <color name="core_font_light">#FFB9B8BD</color>
+    <!--cell选中颜色-->
+    <color name="core_cell_sel">#FFF5F5F5</color>
+    <!--灰色边框-->
+    <color name="core_line_color">#FFE2E2E2</color>
+    <color name="core_background_color">#F8F8F8</color>
+    <color name="core_mask_color">#66AAAAAA</color>
+    <color name="core_dominant_color">#FF5082F4</color>
+</resources>

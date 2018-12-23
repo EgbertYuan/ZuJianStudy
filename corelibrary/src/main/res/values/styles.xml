@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="core_weight_woonton_title">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/core_weight_woonton_title_height</item>
+        <item name="android:background">@color/core_title_bar_color</item>
+    </style>
+</resources>

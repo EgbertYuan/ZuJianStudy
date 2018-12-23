@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="jmodel_colorPrimary">#FFBB00</color>
+    <color name="jmodel_colorPrimaryDark">#FFBB00</color>
+    <color name="jmodel_colorAccent">#D81B60</color>
+
+    <color name="jmodel_common_white">#FFFFFF</color>
+    <color name="jmodel_title">#322E28</color>
+    <color name="jmodel_transparent">#00000000</color>
+    <color name="jmodel_title_bar_color">#FFBB00</color>
+    <!--字体颜色-->
+    <color name="jmodel_font_heavy">#FF322E28</color>
+    <color name="jmodel_font_medium">#FF565462</color>
+    <color name="jmodel_font_regular">#FF716F7C</color>
+    <color name="jmodel_font_light">#FFB9B8BD</color>
+    <!--cell选中颜色-->
+    <color name="jmodel_cell_sel">#FFF5F5F5</color>
+    <!--灰色边框-->
+    <color name="jmodel_line_color">#FFE2E2E2</color>
+    <color name="jmodel_background_color">#F8F8F8</color>
+    <color name="jmodel_mask_color">#66AAAAAA</color>
+    <color name="jmodel_dominant_color">#FF5082F4</color>
+    <!--待确认-->
+    <color name="jmodel_identified">#57A3F4</color>
+    <!--处理中-->
+    <color name="jmodel_pending">#FF822E</color>
+    <!--待验收-->
+    <color name="jmodel_checking">#7FD422</color>
+    <!--未通过-->
+    <color name="jmodel_unpass">#FD5A53</color>
+</resources>
